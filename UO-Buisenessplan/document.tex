@@ -1,19 +1,76 @@
-%%This is a very basic article template.
-%%There is just one section and two subsections.
-\documentclass{article}
+\documentclass[12pt,a4paper]{scrartcl}
+\usepackage[utf8x]{inputenc}
+\usepackage{ucs}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{rotating}
+\usepackage{url}
+\usepackage[ngerman]{babel}
+\usepackage{listings}
+%% SeitenrÃÂ¤ndereinstellungen!!!!!!!!!! -> WICHTIG fÃ¼r coole Texte
+\usepackage[a4paper , lmargin = {2.5cm} , rmargin = {2.5 cm} , tmargin = {2.5cm} , bmargin = {2.5cm} ]{geometry}
+
+\usepackage{psfrag,graphicx}
+
+%\usepackage{hyperref} %man kann drauf klicken um zu referenz zu gelangen
+%KEYWORDS
+\newenvironment{keywords}%
+   {\begin{trivlist}\item[]{\bfseries\sffamily Keywords:}\ }
+   {\end{trivlist}}
+
 
 \begin{document}
 
 
-\section{Title}
+\title{Unternehmensorientierung\\
+	  Buisenessplan\\
+	  Der Super Gerät}
+\author{Vitalij Stepanov, Andreas Dubs, Friedrich Groß}
+\date{\today}
+\maketitle
 
-\subsection{Subtitle}
 
-Plain text.
+%\tableofcontents
+\newpage
+\pagestyle{myheadings}
+\markright{Unternehmensorientierung - Buisenessplan - Der Super Gerät - \today}
+ 
+\section{Management-Zusammenfassung}
 
-\subsection{Another subtitle}
+\section{Unternehmensbeschreibung}
 
-More plain text.
+\section{Führungsteam und Organisation}
+Das Führungsteam besteht aus drei Informatik Studenten, von denen jeder vor dem Studium eine Ausbildung gemacht hat.
 
+Friedrich Groß ist 26 Jahre alt und hat eine Ausbildung zum Mechatroniker (Industrie) gemacht.
+In seiner Ausbildung hat er Fachwissen aus dem Bereich Elektrotechnik, Mechanik und SPS- und Roboterprogrammierung erlernt.
+
+Andreas Dubs ist 30 Jahre als und hat eine Ausbildung zum Elektrotechniker Gebäudetechnik gemacht.
+In seiner Ausbildung hat er Fachwissen aus dem Bereich Elektrotechnik, Fotovoltaikanlagen und Siemens-Logo programmierung erlernt
+
+Vitalij Stepanov ist 35 Jahre alt und hat eine Ausbildung zum Koch und Fachinformatiker gemacht.
+Als Fachinformatiker hat er diverse Programmiersprachen erlernt und als Koch das Wissen darüber wie man fachgerecht Essen zubereitet.
+
+Vereinigmant das Fachwissen erhält man großes Spektrum an Wissen, was bei der Entwicklung und Herstellung eines
+automatisierten 
+
+Dieses Fachwissen kann er bei der Entwicklung und Umsetzung des Automaten verwenden.
+
+\section{Produkt und Dienstleistung}
+
+\section{Markt und Wettbewerb}
+
+\section{Entwicklung und Produktion}
+
+\section{Einkauf und Logistik}
+
+\section{Einkauf und Logistik}
+
+%\nocite{1046015}
+%\bibliography{literatur}{}
+%\bibliographystyle{plain} %unterstÃÂ¼tzt kein URL feld
+%\bibliographystyle{plaindin}  %immerhin urls aber deutsch..
+%\bibliographystyle{Natbib}
 
 \end{document}
