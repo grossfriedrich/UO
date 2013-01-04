@@ -1,48 +1,44 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.12.5)  14 DEC 2012 12:44
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (TeX Live 2011) (format=pdflatex 2012.5.31)  4 JAN 2013 11:19
 entering extended mode
+ restricted \write18 enabled.
+ Source specials enabled.
+ %&-line parsing enabled.
 **document.tex
-(C:\eclipse_workspace\UO\UO-Buisenessplan\document.tex
-LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
-abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
-croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
-lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
-ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
- lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
-german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
-ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
-an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
-ishmax, welsh, loaded.
+(./document.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, serbianc, slovak, sloven
+ian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded
+.
+(/usr/local/texlive/2011/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2011/04/02 v3.09 KOMA-Script document class (article)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2011/04/02 v3.09 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
 
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrartcl.c
-ls
-Document Class: scrartcl 2012/07/29 v3.11b KOMA-Script document class (article)
-
-
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrkbase.s
-ty
-Package: scrkbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-dependent 
+(/usr/local/texlive/2011/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2011/04/02 v3.09 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrbase.st
-y
-Package: scrbase 2012/07/29 v3.11b KOMA-Script package (KOMA-Script-independent
- basics and keyval usage)
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrlfile.s
-ty
-Package: scrlfile 2012/06/15 v3.12 KOMA-Script package (loading files)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2011/03/09 v3.09 KOMA-Script package (loading files)
 
-Package scrlfile, 2012/06/15 v3.12 KOMA-Script package (loading files)
+Package scrlfile, 2011/03/09 v3.09 KOMA-Script package (loading files)
                   Copyright (C) Markus Kohm
 
-)))
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\tocbasic.s
-ty
-Package: tocbasic 2012/04/04 v3.10b KOMA-Script package (handling toc-files)
+))) (/usr/local/texlive/2011/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2011/03/23 v3.09 KOMA-Script package (handling toc-files)
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
@@ -59,18 +55,16 @@ Package scrartcl Info: You've used obsolete option `12pt'.
 (scrartcl)             You may simply replace `12pt'
 (scrartcl)             by `fontsize=12pt'.
 Class scrartcl Info: File `scrsize12pt.clo' used to setup font sizes on input l
-ine 1267.
+ine 1246.
 
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\scrsize12p
-t.clo
-File: scrsize12pt.clo 2012/07/29 v3.11b KOMA-Script font size class option (12p
-t)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/koma-script/scrsize12pt.clo
+File: scrsize12pt.clo 2011/04/02 v3.09 KOMA-Script font size class option (12pt
 )
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\typearea.s
-ty
-Package: typearea 2012/07/29 v3.11b KOMA-Script package (type area)
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2011/04/02 v3.09 KOMA-Script package (type area)
 
-Package typearea, 2012/07/29 v3.11b KOMA-Script package (type area)
+Package typearea, 2011/04/02 v3.09 KOMA-Script package (type area)
                   Copyright (C) Frank Neukam, 1992-1994
                   Copyright (C) Markus Kohm, 1994-
 
@@ -101,7 +95,7 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 12.0pt
 (typearea)              \footskip       = 50.75pt
 (typearea)              \baselineskip   = 14.5pt
-(typearea)              on input line 1213.
+(typearea)              on input line 1138.
 )
 \c@part=\count80
 \c@section=\count81
@@ -115,43 +109,43 @@ Package typearea Info: These are the values describing the layout:
 \c@figure=\count86
 \c@table=\count87
 \bibindent=\dimen102
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+) (/usr/local/texlive/2011/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\utf8x.def
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/utf8x.def
 File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
 ))
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucs.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/ucs.sty
 Package: ucs 2004/10/17 UCS: Unicode input support
 
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-global.def
-File: uni-global.def 2012/08/28 UCS: Unicode global data
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/data/uni-global.def
+File: uni-global.def 2004/10/17 UCS: Unicode global data
 )
 \uc@secondtry=\count88
 \uc@combtoks=\toks17
 \uc@combtoksb=\toks18
 \uc@temptokena=\toks19
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip47
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks20
 \ex@=\dimen103
 ))
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen104
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count89
@@ -192,48 +186,48 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2009/06/22 v3.00
 )
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\rotating\rotating.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/rotating/rotating.sty
 Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
-File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count101
 ))
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count102
@@ -242,31 +236,25 @@ Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 \rot@float@box=\box29
 \rot@mess@toks=\toks25
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2008/07/08 v3.8m The Babel package
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
 
-*************************************
-* Local config file bblopts.cfg used
-*
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
-File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
-)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\ngermanb.ldf"
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/ngermanb.ldf
 Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2008/07/08 v3.8m Babel common definitions
+(/usr/local/texlive/2011/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
 \babel@savecnt=\count103
 \U@D=\dimen114
 )
 \l@naustrian = a dialect from \language\l@ngerman 
 Package babel Info: Making " an active character on input line 92.
 ))
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count104
 \lst@gtempboxa=\box30
 \lst@token=\toks26
@@ -280,28 +268,29 @@ Package babel Info: Making " an active character on input line 92.
 \lst@lineno=\count109
 \lst@maxwidth=\dimen118
 
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+(/usr/local/texlive/2011/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
 \c@lstnumber=\count110
 \lst@skipnumbers=\count111
 \lst@framebox=\box31
 )
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\listings\listings.cfg
+(/usr/local/texlive/2011/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2007/02/22 1.4 listings configuration
 ))
 Package: listings 2007/02/22 1.4 (Carsten Heinz)
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(/usr/local/texlive/2011/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count112
@@ -316,15 +305,19 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen125
 \Gm@layoutvoffset=\dimen126
 \Gm@dimlist=\toks27
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\psfrag\psfrag.sty
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/psfrag/psfrag.sty
 Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
 \pfg@pcount=\count115
 \pfg@scount=\count116
 \pfg@temp=\write3
 )
-(C:\eclipse_workspace\UO\UO-Buisenessplan\document.aux)
+(./document.aux (./ManagementZusammenfassung.aux)
+(./Unternehmensbeschreibung.aux) (./FuehrungsteamOrganisation.aux)
+(./ProdukteDienstleistungen.aux) (./MarktWettbewerb.aux)
+(./EntwicklungProduktion.aux) (./EinkaufLogistik.aux))
+\openout1 = `document.aux'.
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
@@ -338,10 +331,10 @@ LaTeX Font Info:    ... okay on input line 23.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
 LaTeX Font Info:    ... okay on input line 23.
 
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
-File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/ucsencs.def
+File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
 )
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+(/usr/local/texlive/2011/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count117
 \scratchdimen=\dimen127
@@ -354,7 +347,49 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 \MPnumerator=\count121
 \makeMPintoPDFobject=\count122
 \everyMPtoPDFconversion=\toks29
+) (/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
 )
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+(/usr/local/texlive/2011/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(/usr/local/texlive/2011/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2011/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
 \c@lstlisting=\count123
 
 *geometry* driver: auto-detecting
@@ -391,117 +426,173 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(C:\Users\Friedrich\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-0.def
-File: uni-0.def 2012/08/28 UCS: Unicode data U+0000..U+00FF
+(/usr/local/texlive/2011/texmf-dist/tex/latex/ucs/data/uni-0.def
+File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 32.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 32.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+(/usr/local/texlive/2011/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ) [1
 Non-PDF special ignored!
 
 
-{C:/Users/Friedrich/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 44--58
+{/usr/local/texlive/2011/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+\openout2 = `ManagementZusammenfassung.aux'.
+
+ (./ManagementZusammenfassung.tex) [2
+
+]
+\openout2 = `Unternehmensbeschreibung.aux'.
+
+
+(./Unternehmensbeschreibung.tex) [3
+
+
+]
+\openout2 = `FuehrungsteamOrganisation.aux'.
+
+ (./FuehrungsteamOrganisation.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--58
+Underfull \hbox (badness 10000) in paragraph at lines 3--41
 
  []
 
 
-Overfull \hbox (14.65382pt too wide) in paragraph at lines 44--58
+Overfull \hbox (14.65382pt too wide) in paragraph at lines 3--41
 \OT1/cmr/m/n/12 Andreas Dubs ist 30 Jah-re als und hat ei-ne Aus-bil-dung zum E
 lek-tro-tech-ni-ker Geb[]audetechnik
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--58
+Underfull \hbox (badness 10000) in paragraph at lines 3--41
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--58
+Underfull \hbox (badness 10000) in paragraph at lines 3--41
+
+ []
+
+[4
+
+
+]
+\openout2 = `ProdukteDienstleistungen.aux'.
+
+ (./ProdukteDienstleistungen.tex) [5
+
+
+]
+\openout2 = `MarktWettbewerb.aux'.
+
+ (./MarktWettbewerb.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 3--43
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--67
+Underfull \hbox (badness 10000) in paragraph at lines 3--43
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--67
-
- []
-
-
-Overfull \hbox (209.82239pt too wide) in paragraph at lines 62--67
+Overfull \hbox (209.82239pt too wide) in paragraph at lines 3--43
 \OT1/cmr/m/n/12 - 45.000 Besch[]aftigte (Quel-le: $\OT1/cmtt/m/n/12 http : / / 
 www . tagesspiegel . de / berlin / fast-[]food-[]doener-[]hersteller-[]erwarten
--[]preissprung /$
+-[]preissprung /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--67
+Underfull \hbox (badness 10000) in paragraph at lines 3--43
 
  []
 
 
-Overfull \hbox (244.7334pt too wide) in paragraph at lines 62--67
+Overfull \hbox (244.7334pt too wide) in paragraph at lines 3--43
 \OT1/cmr/m/n/12 - 2.3 Mi-li-ar-den Eu-ro Um-satz (Quel-le $\OT1/cmtt/m/n/12 htt
 p : / / www . tagesspiegel . de / berlin / fast-[]food-[]doener-[]hersteller-[]
-erwarten-[]preissprung /$
+erwarten-[]preissprung /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--67
+Underfull \hbox (badness 10000) in paragraph at lines 3--43
 
  []
 
 
-Overfull \hbox (250.0655pt too wide) in paragraph at lines 62--67
+Overfull \hbox (250.0655pt too wide) in paragraph at lines 3--43
 \OT1/cmr/m/n/12 - 15.000 D[]onerl[]aden (Quel-le: $\OT1/cmtt/m/n/12 http : / / 
 www . welt . de / politik / article3830043 / Deutschland-[]dreht-[]sich-[]um-[]
-den-[]Doener-[]zum-[]Glueck .$
+den-[]Doener-[]zum-[]Glueck .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--67
+Underfull \hbox (badness 10000) in paragraph at lines 3--43
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--67
+Underfull \hbox (badness 10000) in paragraph at lines 3--43
 
  []
 
-[2] [3] (C:\eclipse_workspace\UO\UO-Buisenessplan\document.aux) ) 
+[6
+
+
+]
+\openout2 = `MarketingVertrieb.aux'.
+
+ (./MarketingVertrieb.tex) [7
+
+
+]
+\openout2 = `EntwicklungProduktion.aux'.
+
+ (./EntwicklungProduktion.tex) [8
+
+
+]
+\openout2 = `EinkaufLogistik.aux'.
+
+
+(./EinkaufLogistik.tex) [9
+
+
+] [10
+
+] (./document.aux
+(./ManagementZusammenfassung.aux) (./Unternehmensbeschreibung.aux)
+(./FuehrungsteamOrganisation.aux) (./ProdukteDienstleistungen.aux)
+(./MarktWettbewerb.aux) (./MarketingVertrieb.aux) (./EntwicklungProduktion.aux)
+(./EinkaufLogistik.aux)) ) 
 Here is how much of TeX's memory you used:
- 6341 strings out of 493921
- 88944 string characters out of 3144864
- 184224 words of memory out of 3000000
- 9550 multiletter control sequences out of 15000+200000
+ 6731 strings out of 493633
+ 96417 string characters out of 3143377
+ 188927 words of memory out of 3000000
+ 9868 multiletter control sequences out of 15000+200000
  11949 words of font info for 46 fonts, out of 3000000 for 9000
- 841 hyphenation exceptions out of 8191
- 43i,9n,47p,324b,625s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Fi
-les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files
- (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x
-86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on document.pdf (3 pages, 75208 bytes).
+ 831 hyphenation exceptions out of 8191
+ 47i,9n,47p,324b,625s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2011/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr17.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsl12.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmssbx10.pfb></usr/local/texlive/2011/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmtt12.pfb>
+Output written on document.pdf (10 pages, 73869 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
+ 57 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
